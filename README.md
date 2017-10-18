@@ -1,1 +1,1 @@
-# bitbucket-pipelines-php-mongo-mysql
+# bbpl-php-mongo-mysql
